@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				67,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "gf_korr danse lift"
+		},
+		{
+			"offsets": [
+				23,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "gf_korr danse right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_korr",
+	"position": [
+		-530,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

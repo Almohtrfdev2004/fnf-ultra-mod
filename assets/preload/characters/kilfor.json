@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				36
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kilfor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kilfor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kilfor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kilfor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				42
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kilfor lift",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kilfor",
+	"position": [
+		-410,
+		400
+	],
+	"healthicon": "kilfor",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		171,
+		171
+	],
+	"camera_position": [
+		380,
+		280
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

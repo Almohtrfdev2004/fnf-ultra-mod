@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Pose"
+		},
+		{
+			"offsets": [
+				-24,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right Pose"
+		},
+		{
+			"offsets": [
+				-29,
+				136
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down Pose"
+		},
+		{
+			"offsets": [
+				60,
+				145
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up Pose"
+		},
+		{
+			"offsets": [
+				19,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/super_gamer",
+	"position": [
+		100,
+		60
+	],
+	"healthicon": "ghasan",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		164,
+		255
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

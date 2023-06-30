@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-112,
+				336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "korrupter idle"
+		},
+		{
+			"offsets": [
+				197,
+				831
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "korrupter down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				908
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "korrupter up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				343
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "korrupter lift",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				346
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "korrupter right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/korrupter",
+	"position": [
+		-580,
+		600
+	],
+	"healthicon": "korrupter",
+	"flip_x": true,
+	"healthbar_colors": [
+		68,
+		68,
+		68
+	],
+	"camera_position": [
+		-140,
+		-480
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

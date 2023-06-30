@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				67,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "gf_K lifte"
+		},
+		{
+			"offsets": [
+				120,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "gf_K righte"
+		},
+		{
+			"offsets": [
+				30,
+				-148
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "hay",
+			"loop": false,
+			"name": "gf_K hay"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_K",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-280,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
