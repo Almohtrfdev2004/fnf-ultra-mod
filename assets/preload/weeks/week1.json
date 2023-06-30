@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"mistake",
+			"kat",
+			[
+				80,
+				80,
+				93
+			]
+		],
+		[
+			"asking",
+			"kat",
+			[
+				80,
+				80,
+				93
+			]
+		],
+		[
+			"corrupted",
+			"kat",
+			[
+				80,
+				80,
+				93
+			]
+		],
+		[
+			"unleashed",
+			"kat",
+			[
+				80,
+				80,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "hiding a big secret",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

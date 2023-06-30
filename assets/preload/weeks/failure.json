@@ -1,0 +1,31 @@
+{
+	"songs": [
+	        [
+			"failure",
+			"Sus",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "insane",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "c1",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		80,
+		80,
+		80
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

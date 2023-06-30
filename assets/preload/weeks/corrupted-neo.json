@@ -1,0 +1,31 @@
+{
+	"songs": [
+	        [
+			"corrupted-neo",
+			"neo",
+			[
+				225,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "c1",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		225,
+		0,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

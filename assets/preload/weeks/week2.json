@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"forgotten-memories",
+			"real_kat",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"busy",
+			"real_kat",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "lonly is your best friend",
+	"weekName": "",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

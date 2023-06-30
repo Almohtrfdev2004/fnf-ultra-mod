@@ -1,0 +1,31 @@
+{
+	"songs": [
+	        [
+			"guitar-battle",
+			"kat",
+			[
+				81,
+				81,
+				81
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "c1",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		81,
+		81,
+		81
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
