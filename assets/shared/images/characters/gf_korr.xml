@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_korr.png"><SubTexture name="gf_korr danse right0000" x="0" y="0" width="443" height="551" frameX="-5" frameY="0" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0001" x="0" y="0" width="443" height="551" frameX="-5" frameY="0" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0002" x="443" y="0" width="442" height="548" frameX="-14" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0003" x="443" y="0" width="442" height="548" frameX="-14" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0004" x="0" y="551" width="447" height="546" frameX="-3" frameY="-5" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0005" x="0" y="551" width="447" height="546" frameX="-3" frameY="-5" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0006" x="885" y="0" width="442" height="548" frameX="0" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0007" x="885" y="0" width="442" height="548" frameX="0" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0008" x="885" y="0" width="442" height="548" frameX="0" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse right0009" x="885" y="0" width="442" height="548" frameX="0" frameY="-3" frameWidth="456" frameHeight="551" />
+<SubTexture name="gf_korr danse lift0000" x="447" y="551" width="465" height="545" frameX="-5" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0001" x="447" y="551" width="465" height="545" frameX="-5" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0002" x="1327" y="0" width="468" height="545" frameX="0" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0003" x="1327" y="0" width="468" height="545" frameX="0" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0004" x="1327" y="545" width="459" height="545" frameX="-7" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0005" x="1327" y="545" width="459" height="545" frameX="-7" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0006" x="0" y="1097" width="453" height="544" frameX="-13" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0007" x="0" y="1097" width="453" height="544" frameX="-13" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0008" x="0" y="1097" width="453" height="544" frameX="-13" frameY="0" frameWidth="470" frameHeight="545" />
+<SubTexture name="gf_korr danse lift0009" x="0" y="1097" width="453" height="544" frameX="-13" frameY="0" frameWidth="470" frameHeight="545" />
+</TextureAtlas>
