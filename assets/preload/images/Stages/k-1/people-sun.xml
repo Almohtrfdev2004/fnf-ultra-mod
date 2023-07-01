@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="people-sun.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="omg0000" x="0" y="0" width="1232" height="459"/>
+	<SubTexture name="omg0001" x="0" y="0" width="1232" height="459"/>
+	<SubTexture name="omg0002" x="0" y="460" width="1232" height="459"/>
+	<SubTexture name="omg0003" x="0" y="460" width="1232" height="459"/>
+	<SubTexture name="omg0004" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0005" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0006" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0007" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0008" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0009" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0010" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0011" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0012" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0013" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0014" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0015" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0016" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0017" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0018" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0019" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0020" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0021" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0022" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0023" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0024" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0025" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0026" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0027" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0028" x="0" y="920" width="1232" height="459"/>
+	<SubTexture name="omg0029" x="0" y="920" width="1232" height="459"/>
+</TextureAtlas>
