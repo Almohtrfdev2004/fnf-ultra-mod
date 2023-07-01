@@ -430,7 +430,7 @@ class OptionsMenu extends FlxSubState
 				if (escape)
 				{
 					if (!isInPause)
-						HexOptionsDirect.instance.switchState(new HexMainMenu(HexMenuState.loadHexMenu("main-menu")));
+						OptionsDirect.instance.switchState(new MainMenuState(MenuState.loadMenu("main-menu")));
 					else
 					{
 						PauseSubState.goBack = true;
