@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red_smg.png"><SubTexture name="red_smg dans0000" x="1088" y="0" width="558" height="410" frameX="0" frameY="-20" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0001" x="1088" y="0" width="558" height="410" frameX="0" frameY="-20" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0002" x="0" y="430" width="546" height="427" frameX="-7" frameY="-3" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0003" x="0" y="430" width="546" height="427" frameX="-7" frameY="-3" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0004" x="0" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0005" x="0" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0006" x="544" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0007" x="544" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0008" x="544" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+<SubTexture name="red_smg dans0009" x="544" y="0" width="544" height="430" frameX="-8" frameY="0" frameWidth="558" frameHeight="430" />
+</TextureAtlas>
